@@ -18,4 +18,5 @@ I added some styling to the newly created password
 
 I added a "Copy to Clipboard" option so the user can quickly copy their new password
 ***
-URL of Deployment: 
+URL of Deployment: https://bakerwes.github.io/Password-Generator/
+![2023-02-13](https://user-images.githubusercontent.com/122948418/218528244-e81858fd-2dd4-481a-8048-58218e8c5c46.png)
