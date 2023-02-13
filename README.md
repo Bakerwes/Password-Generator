@@ -16,7 +16,7 @@ I created an algorithm to randomize the generated password
 
 I added some styling to the newly created password
 
-I added a "Copy to Clipboard" option so the user can quickly copy their new password
+I added a "Copy to Clipboard" option for more user accessibility
 ***
 URL of Deployment: https://bakerwes.github.io/Password-Generator/
 
