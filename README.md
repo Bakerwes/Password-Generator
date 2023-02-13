@@ -6,7 +6,7 @@ This week, we were given starter code for a password generator. The goal for thi
 ***
 I first created a function that housed all of my information for generating the password 
 
-The user can select which character type they want to use
+The user can select which character types they want to use
 
 I listed all the possible character choices that the user could add to their password
 
