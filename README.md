@@ -4,7 +4,7 @@ Challenge-3
 ***
 This week, we were given starter code for a password generator. The goal for this assignment was to finish the starter code given within the script.js file. The end result should be a functional password generator with a list of different prompts to allow the user to make a unique password. 
 ***
-I first created a function that housed all of my information for generating the password 
+I first created a function that housed all of the information for generating the password 
 
 The user can select which character types they want to use
 
